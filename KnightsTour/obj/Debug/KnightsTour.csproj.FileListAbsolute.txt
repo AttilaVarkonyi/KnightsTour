@@ -1,0 +1,11 @@
+C:\Users\varco\source\repos\KnightsTour\KnightsTour\bin\Debug\KnightsTour.exe.config
+C:\Users\varco\source\repos\KnightsTour\KnightsTour\bin\Debug\KnightsTour.exe
+C:\Users\varco\source\repos\KnightsTour\KnightsTour\bin\Debug\KnightsTour.pdb
+C:\Users\varco\source\repos\KnightsTour\KnightsTour\obj\Debug\KnightsTour.Form1.resources
+C:\Users\varco\source\repos\KnightsTour\KnightsTour\obj\Debug\KnightsTour.Properties.Resources.resources
+C:\Users\varco\source\repos\KnightsTour\KnightsTour\obj\Debug\KnightsTour.csproj.GenerateResource.cache
+C:\Users\varco\source\repos\KnightsTour\KnightsTour\obj\Debug\KnightsTour.csproj.CoreCompileInputs.cache
+C:\Users\varco\source\repos\KnightsTour\KnightsTour\obj\Debug\KnightsTour.exe
+C:\Users\varco\source\repos\KnightsTour\KnightsTour\obj\Debug\KnightsTour.pdb
+C:\Users\varco\source\repos\KnightsTour\KnightsTour\obj\Debug\KnightsTour.InterfaceKnightsTour.resources
+C:\Users\varco\source\repos\KnightsTour\KnightsTour\obj\Debug\KnightsTour.csprojAssemblyReference.cache
